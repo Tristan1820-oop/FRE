@@ -1,0 +1,55 @@
+/* General body styles */
+body {
+    background-image: url("bucks.jpg");
+    background-color: #cccccc;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header styles */
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #e6ad13;
+  }
+  
+  /* Styling for paragraphs */
+  p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+  }
+  
+  /* Links style */
+  a {
+    text-decoration: none;
+    color: #008CBA;
+  }
+  
+  /* Image styling */
+  #img1 {
+    clip-path: circle(50%);
+    margin: 20px auto;
+    display: block;
+  }
+  
+  /* Div styling */
+  div {
+    border: 1px solid gray;
+    padding: 8px;
+    margin: 20px;
+  }
+  
+  /* Unordered list styles */
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  /* List item styles */
+  li {
+    margin-bottom: 5px;
+  }
+  
